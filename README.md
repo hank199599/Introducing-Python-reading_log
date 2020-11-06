@@ -1,6 +1,9 @@
 # 這是一個記錄學習Python過程的專案
-(目前進度：整理到第七章)
-
+(目前進度：整理到第八章)
+  
+>自11/10，在Google Meet上亦可參與線上讀書會。歡迎參與!  
+https://www.meetup.com/en-AU/TensorFlow-User-Group-Taipei/events/274161446/
+  
 ## 參考書目
 《精通 Python：運用簡單的套件進行現代運算》（第二版）  
 Introducing Python, 2nd Edition  
@@ -11,8 +14,6 @@ Introducing Python, 2nd Edition
 出版日期：2020/06/02  
 語言：繁體中文    
 
->自11/10，在Google Meet上亦可參與線上讀書會。歡迎參與!  
-https://www.meetup.com/en-AU/TensorFlow-User-Group-Taipei/events/274161446/
 
 * 第一章 初嘗py 
 * 第二章 資料：型態、值、變數與名稱
