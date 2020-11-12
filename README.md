@@ -1,5 +1,5 @@
 # 這是一個記錄學習Python過程的專案
-(目前進度：整理到第八章)
+(目前進度：整理到第九章)
   
 >自11/10，在Google Meet上亦可參與線上讀書會。歡迎參與!  
 https://www.meetup.com/en-AU/TensorFlow-User-Group-Taipei/events/274161446/
