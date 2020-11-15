@@ -16,13 +16,13 @@ Introducing Python, 2nd Edition
 語言：繁體中文    
 
 
-* 第一章 初嘗py 
-* 第二章 資料：型態、值、變數與名稱
-* 第三章 數字
-* 第四章 用if來選擇
-* 第五章 文字字串
-* 第六章 用while與for來執行迴圈
-* 第七章 tuple與串列
-* 第八章 字典與集合
-* 第九章 函式
-* 第十章 喔喔：物件與類別
+* [第一章 初嘗py](https://colab.research.google.com/github/hank199599/Introducing-Python-reading_log/blob/main/Chapter1.ipynb) 
+* [第二章 資料：型態、值、變數與名稱](https://colab.research.google.com/github/hank199599/Introducing-Python-reading_log/blob/main/Chapter2.ipynb)
+* [第三章 數字](https://colab.research.google.com/github/hank199599/Introducing-Python-reading_log/blob/main/Chapter3.ipynb)
+* [第四章 用if來選擇](https://colab.research.google.com/github/hank199599/Introducing-Python-reading_log/blob/main/Chapter4.ipynb)
+* [第五章 文字字串](https://colab.research.google.com/github/hank199599/Introducing-Python-reading_log/blob/main/Chapter5.ipynb)
+* [第六章 用while與for來執行迴圈](https://colab.research.google.com/github/hank199599/Introducing-Python-reading_log/blob/main/Chapter6.ipynb)
+* [第七章 tuple與串列](https://colab.research.google.com/github/hank199599/Introducing-Python-reading_log/blob/main/Chapter7.ipynb)
+* [第八章 字典與集合](https://colab.research.google.com/github/hank199599/Introducing-Python-reading_log/blob/main/Chapter8.ipynb)
+* [第九章 函式](https://colab.research.google.com/github/hank199599/Introducing-Python-reading_log/blob/main/Chapter9.ipynb)
+* [第十章 喔喔：物件與類別](https://colab.research.google.com/github/hank199599/Introducing-Python-reading_log/blob/main/Chapter10.ipynb)
