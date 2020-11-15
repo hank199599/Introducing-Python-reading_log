@@ -21,7 +21,7 @@ Introducing Python, 2nd Edition
 * 第三章 數字
 * 第四章 用if來選擇
 * 第五章 文字字串
-* 第六章 用while與for來執行迴圈+習題講解
+* 第六章 用while與for來執行迴圈
 * 第七章 tuple與串列
 * 第八章 字典與集合
 * 第九章 函式
